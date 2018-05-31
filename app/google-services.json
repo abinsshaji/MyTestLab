@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "260456712512",
+    "firebase_url": "https://my-maid-azinova.firebaseio.com",
+    "project_id": "my-maid-azinova",
+    "storage_bucket": "my-maid-azinova.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260456712512:android:d41823db797111fa",
+        "android_client_info": {
+          "package_name": "com.azinova.mymaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260456712512-4ov603ii4nkha7pgsbehpbv29fqp4s8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azinova.mymaid",
+            "certificate_hash": "c748a60a586988e7e4302cbf0c5389c1211ee93b"
+          }
+        },
+        {
+          "client_id": "260456712512-8abs3ub1281ijtfbl3u594vj06bvl39d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azinova.mymaid",
+            "certificate_hash": "31b9af42284ec22f59ac128813eaf64f61d92431"
+          }
+        },
+        {
+          "client_id": "260456712512-drtu9ua9lf7ldpkieis03152nnefm28j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdR4rS5FuOEQ07DM6MABCfW3NqgD38mdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260456712512-drtu9ua9lf7ldpkieis03152nnefm28j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260456712512:android:cbb99b769cef1b1c",
+        "android_client_info": {
+          "package_name": "com.example.beast.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260456712512-8hj2tusal37ecbj6tbqlbfebpehpom3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beast.chatbot",
+            "certificate_hash": "31b9af42284ec22f59ac128813eaf64f61d92431"
+          }
+        },
+        {
+          "client_id": "260456712512-drtu9ua9lf7ldpkieis03152nnefm28j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdR4rS5FuOEQ07DM6MABCfW3NqgD38mdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260456712512-drtu9ua9lf7ldpkieis03152nnefm28j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260456712512:android:8861956908dcb405",
+        "android_client_info": {
+          "package_name": "com.example.azinova.fbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260456712512-3bv07ubcvhpu8diraj3fb1porbv7sc99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.azinova.fbtest",
+            "certificate_hash": "c748a60a586988e7e4302cbf0c5389c1211ee93b"
+          }
+        },
+        {
+          "client_id": "260456712512-v62gd4tt992mopcdoe1hbs6eprnlf7lb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.azinova.fbtest",
+            "certificate_hash": "945a84a8dd32b1f3d4414a2614543bfc5596bc35"
+          }
+        },
+        {
+          "client_id": "260456712512-drtu9ua9lf7ldpkieis03152nnefm28j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdR4rS5FuOEQ07DM6MABCfW3NqgD38mdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260456712512-drtu9ua9lf7ldpkieis03152nnefm28j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
